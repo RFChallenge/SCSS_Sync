@@ -5,7 +5,7 @@ Accompanying code for [Data-Driven Blind Synchronization and Interference Reject
 
 (To appear in 2022 IEEE Global Communications Conference (GLOBECOM 2022))
 
-Link to download trained model weights (to be updated): [Dropbox Link](https://www.dropbox.com/s/6p9cfk8eirzvfsr/trained_models.zip?dl=0)
+Link to download trained model weights: [Dropbox Link](https://www.dropbox.com/s/6p9cfk8eirzvfsr/trained_models.zip?dl=0)
 
 ----
 Work motivated by the MIT-USAF AIA RF Challenge for Single-Channel Source Separation
