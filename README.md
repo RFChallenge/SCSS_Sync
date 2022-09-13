@@ -3,7 +3,7 @@
 ---
 Accompanying code for [Data-Driven Blind Synchronization and Interference Rejection for Digital Communication Signals]()
 
-(To appear in 2022 IEEE Global Communications Conference (GLOBECOM 2022))
+(To appear in 2022 IEEE Global Communications Conference (GLOBECOM 2022))[arXiv](https://arxiv.org/abs/2209.04871)
 
 Link to download trained model weights: [Dropbox Link](https://www.dropbox.com/s/6p9cfk8eirzvfsr/trained_models.zip?dl=0)
 
